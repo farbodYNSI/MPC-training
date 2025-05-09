@@ -1,5 +1,5 @@
 # MPC-training
-Autonomous Robots: Model Predictive Control course MPC
+Autonomous Robots: Model Predictive Control course from Udemy
 
 This repository demonstrates the implementation of an MPC (Model Predictive Control) for autonomous vehicles using a simple simulator and by bicycle model of vehicle.
 
